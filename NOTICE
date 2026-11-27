@@ -5,12 +5,15 @@ Copyright (c) 2026 EvelynShiao（本仓库的修改与新增部分）
 ------
 本仓库的整体发布许可证为 Mozilla Public License 2.0（见 LICENSE）。
 
-
 上游许可
 --------
-上游：https://github.com/HeShen-1/deepseek-whale-wallpaper（MIT）。
-原许可证全文保留在 LICENSE-UPSTREAM，其版权与许可声明不得移除。
+上游：https://github.com/HeShen-1/deepseek-whale-wallpaper
+      （MIT，LICENSE 版权行为 "Copyright (c) 2026"，上游未署名）
+基座版本：v0.3.12（npm 上该包只发到 0.2.0，0.3.12 取自 GitHub Releases tarball）
+本仓库是相对上游 v0.3.12 的本地精简改版，改动清单见 PATCHES.md。
+上游 MIT 许可证全文保留在 LICENSE-UPSTREAM，其版权与许可声明不得移除。
 
-说明：MPL-2.0 是文件级弱著佐权。上游文件保留其原有许可证与版权声明；
-本仓库中由 EvelynShiao 修改或新增的文件，按 MPL-2.0 发布。分发本仓库或
-其衍生作品时，请一并保留 LICENSE、LICENSE-UPSTREAM 与本 NOTICE。
+说明：MPL-2.0 是文件级弱著佐权。上游 MIT 允许再许可，故本仓库整体可按
+MPL-2.0 发布；上游原始文件保留其 MIT 许可与版权声明，本仓库中由 EvelynShiao
+修改或新增的文件按 MPL-2.0 发布。分发本仓库或其衍生作品时，请一并保留
+LICENSE、LICENSE-UPSTREAM 与 NOTICE。

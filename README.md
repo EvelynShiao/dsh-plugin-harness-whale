@@ -190,6 +190,8 @@ See [CHANGELOG.md](CHANGELOG.md).
 
 本仓库整体按 **Mozilla Public License 2.0（MPL-2.0）** 发布，全文见 [LICENSE](LICENSE)。
 
-这是对上游项目的分支/修改版本：上游原始许可证与版权声明保留在
-[LICENSE-UPSTREAM](LICENSE-UPSTREAM)，出处与改动说明见 [NOTICE](NOTICE)。
-上游文件保留其原许可证，本仓库中由 EvelynShiao 修改或新增的文件按 MPL-2.0 发布。
+上游：[HeShen-1/deepseek-whale-wallpaper](https://github.com/HeShen-1/deepseek-whale-wallpaper)
+（MIT，LICENSE 版权行为 `Copyright (c) 2026`，上游未署名）。基座版本 v0.3.12。
+本仓库是相对上游 v0.3.12 的本地精简改版，改动见 [PATCHES.md](PATCHES.md)。
+
+上游 MIT 许可证原文保留在 [LICENSE-UPSTREAM](LICENSE-UPSTREAM)，出处与改动说明见 [NOTICE](NOTICE)。
